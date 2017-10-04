@@ -1,0 +1,12 @@
+C:\Training\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Training\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Training\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Training\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache
+C:\Training\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Training\Decisions\Decisions\obj\Debug\Decisions.pdb
+C:\Users\mmarchese\Encrypted\OneDrive for Business\Documents\Desktop\Projects\LocalGitRepos\Training\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\mmarchese\Encrypted\OneDrive for Business\Documents\Desktop\Projects\LocalGitRepos\Training\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\mmarchese\Encrypted\OneDrive for Business\Documents\Desktop\Projects\LocalGitRepos\Training\Decisions\Decisions\obj\Debug\Decisions.pdb
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\Decisions\Decisions\obj\Debug\Decisions.pdb

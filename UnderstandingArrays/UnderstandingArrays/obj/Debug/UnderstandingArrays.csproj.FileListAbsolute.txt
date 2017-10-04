@@ -1,0 +1,6 @@
+C:\Training\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+C:\Training\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+C:\Training\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+C:\Training\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+C:\Training\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb
+C:\Training\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csprojResolveAssemblyReference.cache

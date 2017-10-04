@@ -1,0 +1,6 @@
+C:\GitHub\Training\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
+C:\GitHub\Training\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+C:\GitHub\Training\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+C:\GitHub\Training\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.csprojResolveAssemblyReference.cache
+C:\GitHub\Training\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+C:\GitHub\Training\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb

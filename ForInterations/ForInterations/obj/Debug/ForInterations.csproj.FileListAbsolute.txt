@@ -1,0 +1,9 @@
+C:\Training\ForInterations\ForInterations\bin\Debug\ForInterations.exe.config
+C:\Training\ForInterations\ForInterations\bin\Debug\ForInterations.exe
+C:\Training\ForInterations\ForInterations\bin\Debug\ForInterations.pdb
+C:\Training\ForInterations\ForInterations\obj\Debug\ForInterations.csprojResolveAssemblyReference.cache
+C:\Training\ForInterations\ForInterations\obj\Debug\ForInterations.exe
+C:\Training\ForInterations\ForInterations\obj\Debug\ForInterations.pdb
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\ForInterations\ForInterations\bin\Debug\ForInterations.exe.config
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\ForInterations\ForInterations\obj\Debug\ForInterations.exe
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\ForInterations\ForInterations\obj\Debug\ForInterations.pdb

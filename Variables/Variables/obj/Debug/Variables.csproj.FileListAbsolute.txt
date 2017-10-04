@@ -1,0 +1,6 @@
+C:\Training\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Training\Variables\Variables\bin\Debug\Variables.exe
+C:\Training\Variables\Variables\bin\Debug\Variables.pdb
+C:\Training\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Training\Variables\Variables\obj\Debug\Variables.exe
+C:\Training\Variables\Variables\obj\Debug\Variables.pdb

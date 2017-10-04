@@ -1,0 +1,6 @@
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\TrainingApp\TrainingApp\bin\Debug\TrainingApp.exe.config
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\TrainingApp\TrainingApp\bin\Debug\TrainingApp.exe
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\TrainingApp\TrainingApp\bin\Debug\TrainingApp.pdb
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\TrainingApp\TrainingApp\obj\Debug\TrainingApp.csprojResolveAssemblyReference.cache
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\TrainingApp\TrainingApp\obj\Debug\TrainingApp.exe
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\TrainingApp\TrainingApp\obj\Debug\TrainingApp.pdb

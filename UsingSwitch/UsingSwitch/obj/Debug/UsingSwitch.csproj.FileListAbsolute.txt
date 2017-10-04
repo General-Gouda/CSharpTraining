@@ -1,0 +1,2 @@
+C:\GitHub\Training\UsingSwitch\UsingSwitch\bin\Debug\UsingSwitch.exe.config
+C:\Users\mmarchese\Encrypted\OneDrive for Business\Documents\Desktop\Projects\LocalGitRepos\Training\UsingSwitch\UsingSwitch\bin\Debug\UsingSwitch.exe.config

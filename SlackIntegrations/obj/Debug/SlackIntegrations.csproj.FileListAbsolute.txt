@@ -1,0 +1,8 @@
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\SlackIntegrations\bin\Debug\SlackIntegrations.exe.config
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\SlackIntegrations\bin\Debug\SlackIntegrations.exe
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\SlackIntegrations\bin\Debug\SlackIntegrations.pdb
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\SlackIntegrations\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\SlackIntegrations\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\SlackIntegrations\obj\Debug\SlackIntegrations.csprojResolveAssemblyReference.cache
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\SlackIntegrations\obj\Debug\SlackIntegrations.exe
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\SlackIntegrations\obj\Debug\SlackIntegrations.pdb

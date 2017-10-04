@@ -1,0 +1,15 @@
+C:\GitHub\Training\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.exe.config
+C:\GitHub\Training\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.exe
+C:\GitHub\Training\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.pdb
+C:\GitHub\Training\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.csprojResolveAssemblyReference.cache
+C:\GitHub\Training\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.exe
+C:\GitHub\Training\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.pdb
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.exe.config
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.exe
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.pdb
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.exe.config
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.exe
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.pdb
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.csprojResolveAssemblyReference.cache
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.exe
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.pdb

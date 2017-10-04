@@ -1,0 +1,12 @@
+C:\GitHub\Training\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe.config
+C:\GitHub\Training\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+C:\GitHub\Training\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+C:\GitHub\Training\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csprojResolveAssemblyReference.cache
+C:\GitHub\Training\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+C:\GitHub\Training\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.pdb
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe.config
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.pdb
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csprojResolveAssemblyReference.cache

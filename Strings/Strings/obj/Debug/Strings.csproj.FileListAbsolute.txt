@@ -1,0 +1,15 @@
+C:\Training\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Training\Strings\Strings\bin\Debug\Strings.exe
+C:\Training\Strings\Strings\bin\Debug\Strings.pdb
+C:\Training\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+C:\Training\Strings\Strings\obj\Debug\Strings.exe
+C:\Training\Strings\Strings\obj\Debug\Strings.pdb
+C:\GitHub\Training\Strings\Strings\bin\Debug\Strings.exe.config
+C:\GitHub\Training\Strings\Strings\obj\Debug\Strings.exe
+C:\GitHub\Training\Strings\Strings\obj\Debug\Strings.pdb
+C:\Users\mmarchese\Encrypted\OneDrive for Business\Documents\Desktop\Projects\LocalGitRepos\Training\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\mmarchese\Encrypted\OneDrive for Business\Documents\Desktop\Projects\LocalGitRepos\Training\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\mmarchese\Encrypted\OneDrive for Business\Documents\Desktop\Projects\LocalGitRepos\Training\Strings\Strings\obj\Debug\Strings.pdb
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\Strings\Strings\obj\Debug\Strings.pdb

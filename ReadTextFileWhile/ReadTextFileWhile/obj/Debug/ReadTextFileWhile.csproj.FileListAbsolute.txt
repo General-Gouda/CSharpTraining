@@ -1,0 +1,14 @@
+C:\Training\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe.config
+C:\Training\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\Values.txt
+C:\Training\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe
+C:\Training\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.pdb
+C:\Training\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.csprojResolveAssemblyReference.cache
+C:\Training\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.exe
+C:\Training\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.pdb
+C:\GitHub\Training\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe.config
+C:\GitHub\Training\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.exe
+C:\GitHub\Training\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.pdb
+C:\GitHub\Training\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\Values1.txt
+C:\GitHub\Training\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe
+C:\GitHub\Training\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.pdb
+C:\GitHub\Training\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.csprojResolveAssemblyReference.cache

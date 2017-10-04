@@ -1,0 +1,15 @@
+C:\Training\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Training\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Training\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Training\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Training\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Training\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\GitHub\Training\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\GitHub\Training\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\GitHub\Training\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\mmarchese\OneDrive\Computer Stuff\GitRepos\Training\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\mmarchese\OneDrive\Computer_Stuff\GitRepos\Training\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb

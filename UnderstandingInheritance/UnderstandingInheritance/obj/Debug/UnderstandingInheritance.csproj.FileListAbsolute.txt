@@ -1,0 +1,6 @@
+C:\GitHub\Training\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.exe.config
+C:\GitHub\Training\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.exe
+C:\GitHub\Training\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.pdb
+C:\GitHub\Training\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.csprojResolveAssemblyReference.cache
+C:\GitHub\Training\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.exe
+C:\GitHub\Training\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.pdb
